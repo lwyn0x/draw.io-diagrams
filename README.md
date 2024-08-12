@@ -1,6 +1,6 @@
 # Draw.io Diagrams Repository
 
-This repository is dedicated to storing draw.io diagrams created from the website. 
+This repository is dedicated to storing draw.io diagrams created from the website.
 
 ## Purpose
 
